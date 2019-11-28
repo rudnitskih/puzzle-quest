@@ -1,0 +1,14 @@
+.canvas {
+    zoom: 0.5;
+}
+
+.controls {
+    position: fixed;
+    left: 40px;
+    right: 40px;
+}
+
+.zoom {
+    width: 40px;
+    height: 40px;
+}

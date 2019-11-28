@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3d0d273-3cb1-444e-8da1-2e0f8d2805ba" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41" selection-start-column="41" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="29" selection-start-line="29" selection-end-line="32" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lines.svg</find>
+      <find>pc--93</find>
+      <find>hover</find>
+      <find>0.png</find>
+      <find>pc</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/piecemaker/src</dir>
+      <dir>$PROJECT_DIR$/piecemaker/test/scale-100</dir>
+      <dir>$PROJECT_DIR$/piecemaker/test</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/piecemaker" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/piecemaker/test/scale-100/sprite_proof.html" />
+        <option value="$PROJECT_DIR$/getPieces.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="puzzle-quest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puzzle-quest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="puzzle-quest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puzzle-quest" type="462c0819:PsiDirectoryNode" />
+              <item name="piecemaker" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/piecemaker" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3d0d273-3cb1-444e-8da1-2e0f8d2805ba" name="Default Changelist" comment="" />
+      <created>1573230982947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573230982947</updated>
+      <workItem from="1573230984933" duration="2580000" />
+      <workItem from="1574882005734" duration="4912000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <created>1574963387202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574963387202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7492000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39745224" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.39745224" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/piecemaker/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/adjacent.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/jpg/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/jpg/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/jpg/8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/jpg/12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/jpg/10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08223742.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/Background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/Background-resized.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/lines-100.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/lines.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/lines-100.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/pieces.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/preview.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/21.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/23.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/42.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/59.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/58.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/45.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster/54.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/masks.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10602">
+          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/raster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piecemaker/test/scale-100/sprite_proof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="e#349#379#0" expanded="true" />
+            <element signature="e#647#676#0" expanded="true" />
+            <element signature="e#1383#1414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprite_proof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#137#222#0" />
+            <element signature="e#238#287#0" />
+            <element signature="e#315#388#0" />
+            <element signature="e#389#463#0" />
+            <element signature="e#464#537#0" />
+            <element signature="e#538#612#0" />
+            <element signature="e#613#685#0" />
+            <element signature="e#686#756#0" />
+            <element signature="e#757#831#0" />
+            <element signature="e#832#902#0" />
+            <element signature="e#903#973#0" />
+            <element signature="e#974#1048#0" />
+            <element signature="e#1049#1124#0" />
+            <element signature="e#1125#1198#0" />
+            <element signature="e#1199#1273#0" />
+            <element signature="e#1274#1347#0" />
+            <element signature="e#1348#1424#0" />
+            <element signature="e#1425#1501#0" />
+            <element signature="e#1502#1576#0" />
+            <element signature="e#1577#1650#0" />
+            <element signature="e#1651#1727#0" />
+            <element signature="e#1728#1803#0" />
+            <element signature="e#1804#1877#0" />
+            <element signature="e#1878#1953#0" />
+            <element signature="e#1954#2029#0" />
+            <element signature="e#2030#2105#0" />
+            <element signature="e#2106#2181#0" />
+            <element signature="e#2182#2254#0" />
+            <element signature="e#2255#2330#0" />
+            <element signature="e#2331#2406#0" />
+            <element signature="e#2407#2482#0" />
+            <element signature="e#2483#2558#0" />
+            <element signature="e#2559#2634#0" />
+            <element signature="e#2635#2710#0" />
+            <element signature="e#2711#2786#0" />
+            <element signature="e#2787#2861#0" />
+            <element signature="e#2862#2937#0" />
+            <element signature="e#2938#3014#0" />
+            <element signature="e#3015#3089#0" />
+            <element signature="e#3090#3166#0" />
+            <element signature="e#3167#3242#0" />
+            <element signature="e#3243#3317#0" />
+            <element signature="e#3318#3392#0" />
+            <element signature="e#3393#3466#0" />
+            <element signature="e#3467#3542#0" />
+            <element signature="e#3543#3618#0" />
+            <element signature="e#3619#3691#0" />
+            <element signature="e#3692#3768#0" />
+            <element signature="e#3769#3843#0" />
+            <element signature="e#3844#3918#0" />
+            <element signature="e#3919#3992#0" />
+            <element signature="e#3993#4067#0" />
+            <element signature="e#4068#4143#0" />
+            <element signature="e#4144#4219#0" />
+            <element signature="e#4220#4293#0" />
+            <element signature="e#4294#4367#0" />
+            <element signature="e#4368#4443#0" />
+            <element signature="e#4444#4517#0" />
+            <element signature="e#4518#4593#0" />
+            <element signature="e#4594#4669#0" />
+            <element signature="e#4670#4746#0" />
+            <element signature="e#4747#4822#0" />
+            <element signature="e#4823#4899#0" />
+            <element signature="e#4900#4974#0" />
+            <element signature="e#4975#5049#0" />
+            <element signature="e#5050#5125#0" />
+            <element signature="e#5126#5201#0" />
+            <element signature="e#5202#5278#0" />
+            <element signature="e#5279#5354#0" />
+            <element signature="e#5355#5425#0" />
+            <element signature="e#5426#5499#0" />
+            <element signature="e#5500#5576#0" />
+            <element signature="e#5577#5651#0" />
+            <element signature="e#5652#5728#0" />
+            <element signature="e#5729#5804#0" />
+            <element signature="e#5805#5880#0" />
+            <element signature="e#5881#5956#0" />
+            <element signature="e#5957#6032#0" />
+            <element signature="e#6033#6109#0" />
+            <element signature="e#6110#6185#0" />
+            <element signature="e#6186#6262#0" />
+            <element signature="e#6263#6338#0" />
+            <element signature="e#6339#6414#0" />
+            <element signature="e#6415#6490#0" />
+            <element signature="e#6491#6565#0" />
+            <element signature="e#6566#6642#0" />
+            <element signature="e#6643#6717#0" />
+            <element signature="e#6718#6793#0" />
+            <element signature="e#6794#6870#0" />
+            <element signature="e#6871#6943#0" />
+            <element signature="e#6944#7019#0" />
+            <element signature="e#7020#7095#0" />
+            <element signature="e#7096#7172#0" />
+            <element signature="e#7173#7248#0" />
+            <element signature="e#7249#7325#0" />
+            <element signature="e#7326#7402#0" />
+            <element signature="e#7403#7479#0" />
+            <element signature="e#7480#7556#0" />
+            <element signature="e#7557#7632#0" />
+            <element signature="e#7633#7705#0" />
+            <element signature="e#7706#7780#0" />
+            <element signature="e#7781#7856#0" />
+            <element signature="e#7857#7934#0" />
+            <element signature="e#7935#8010#0" />
+            <element signature="e#8011#8085#0" />
+            <element signature="e#8086#8163#0" />
+            <element signature="e#8164#8242#0" />
+            <element signature="e#8243#8321#0" />
+            <element signature="e#8322#8400#0" />
+            <element signature="e#8401#8479#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getPieces.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding>
+            <element signature="e#37#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raster.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raster.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="29" selection-start-line="29" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
