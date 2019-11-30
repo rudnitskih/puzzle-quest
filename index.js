@@ -57,8 +57,6 @@ function updateVisiblePieces() {
           .filter(onlyUnique)
           .sort((a, b) => a - b);
 
-        console.log(pieces);
-
         pieces.forEach((piece) => {
           if (values.includes(piece.textContent.trim())) {
             piece.classList.add('active');
