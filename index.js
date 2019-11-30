@@ -3,28 +3,40 @@ import {getPieces} from "./getPieces.js";
 
 const canvas = document.querySelector('.canvas');
 canvas.innerHTML = getPieces();
+const isTestMode = location.search.includes('test');
 
-let currentZoom = Number(window.getComputedStyle(canvas).zoom);
-const pieces = [...document.querySelectorAll('.pc')];
+setZoomListeners();
 
-
-document.querySelector('.zoom_plus').addEventListener('click', () => {
-  updateZoom(0.02);
-});
-
-document.querySelector('.zoom_minus').addEventListener('click', () => {
-  updateZoom(-0.02);
-});
-
-function updateZoom(delta) {
-  currentZoom += delta;
-  canvas.style.zoom = `${currentZoom}`;
+if (isTestMode) {
+  document.body.classList.add('test');
+} else {
+  document.body.classList.add('prod');
+  void infinityUpdateVisiblePuzzles();
 }
+
+function setZoomListeners() {
+  let currentZoom = Number(window.getComputedStyle(canvas).zoom);
+
+  document.querySelector('.zoom_plus').addEventListener('click', () => {
+    updateZoom(0.02);
+  });
+
+  document.querySelector('.zoom_minus').addEventListener('click', () => {
+    updateZoom(-0.02);
+  });
+
+  function updateZoom(delta) {
+    currentZoom += delta;
+    canvas.style.zoom = `${currentZoom}`;
+  }
+}
+
 
 function updateVisiblePieces() {
   const numberColumnName = 'Номера';
   const isOpenedColumnName = 'Пазл открытый?';
   const publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1u4ycZNkGmTczthSVnijAOzAuZ53-K8Wk76hswaSlViI/edit?usp=sharing';
+  const pieces = [...document.querySelectorAll('.pc')];
 
   return new Promise((resolve) => {
     Tabletop.init( { key: publicSpreadsheetUrl,
@@ -70,6 +82,3 @@ async function infinityUpdateVisiblePuzzles() {
     void infinityUpdateVisiblePuzzles();
   }, 5000)
 }
-
-
-void infinityUpdateVisiblePuzzles();

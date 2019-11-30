@@ -13,6 +13,28 @@
     height: 40px;
 }
 
-.pc:not(.active) {
+.canvas {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.pc {
+    position: absolute;
+    color: transparent;
+}
+
+.test .pc {
+    text-indent: 0;
+    font-size: 40px;
+    outline: 1px solid red;
+    color: black;
+}
+
+.test .pc:hover {
+    z-index: 100;
+    text-indent: 0;
+}
+
+.prod .pc:not(.active) {
     background: azure;
 }
