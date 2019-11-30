@@ -10,16 +10,36 @@
         rel="stylesheet">
   <link href="main.css"
         rel="stylesheet">
+  <link href="micromodal.css"
+        rel="stylesheet">
   <title>City of Maryna</title>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+  <script src='https://unpkg.com/micromodal/dist/micromodal.min.js'></script>
   <script src="index.js"
           type="module"></script>
 </head>
 <body>
 <div class="canvas"></div>
 <div class="controls">
-  <button class="zoom zoom_plus">+</button>
-  <button class="zoom zoom_minus">-</button>
+  <button class="button zoom zoom_plus">+</button>
+  <button class="button zoom zoom_minus">-</button>
+</div>
+<button class="button open-task" data-micromodal-trigger="modal-1">Открыть задание</button>
+
+<div class="modal micromodal-slide" id="modal-1" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title">
+      <header class="modal__header">
+        <h2 class="modal__title" id="modal-1-title">
+          Заголовок
+        </h2>
+        <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+      </header>
+      <main class="modal__content" id="modal-1-content">
+        Описание задания что нужно делать дальше
+      </main>
+    </div>
+  </div>
 </div>
 </body>
 </html>

@@ -5,6 +5,7 @@ const canvas = document.querySelector('.canvas');
 canvas.innerHTML = getPieces();
 const isTestMode = location.search.includes('test');
 
+MicroModal.init();
 setZoomListeners();
 
 if (isTestMode) {
