@@ -21,6 +21,7 @@
 .modal__container {
     background-color: #fff;
     padding: 30px;
+    width: 400px;
     max-width: 500px;
     max-height: 100vh;
     border-radius: 4px;
@@ -45,6 +46,7 @@
 }
 
 .modal__close {
+    outline: none;
     background: transparent;
     border: 0;
 }

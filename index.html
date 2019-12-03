@@ -15,6 +15,8 @@
   <title>City of Maryna</title>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
   <script src='https://unpkg.com/micromodal/dist/micromodal.min.js'></script>
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/base-min.css">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
   <script src="index.js"
           type="module"></script>
 </head>
@@ -30,14 +32,17 @@
   <div class="modal__overlay" tabindex="-1" data-micromodal-close>
     <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title">
       <header class="modal__header">
-        <h2 class="modal__title" id="modal-1-title">
-          Заголовок
-        </h2>
+        <h2 class="modal__title" id="modal-1-title"></h2>
         <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
       </header>
       <main class="modal__content" id="modal-1-content">
-        Описание задания что нужно делать дальше
+        <p class="modal__task-description">
+
+        </p>
+        <input type="text" placeholder="Пароль" class="modal__input">
       </main>
+
+      <button class="pure-button pure-button-primary modal__next">Вперед</button>
     </div>
   </div>
 </div>
