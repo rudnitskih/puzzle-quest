@@ -89,7 +89,7 @@ function updateVisiblePieces() {
 
   const values = window.puzzleData
     .filter((row) => {
-      return Number(row[taskNumber]) <= window.currentTask;
+      return Number(row[taskNumber]) < window.currentTask;
     })
     .map((row) => row[numberColumnName].split(',').map((stringValue) => stringValue.trim())
     ).reduce((acc, arrayOfValues) => {
