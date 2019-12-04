@@ -112,11 +112,17 @@ function updateTaskModal(currentTaskNumber = window.currentTask) {
   const modalTitle = document.querySelector('.modal__title');
   const modalDescription = document.querySelector('.modal__task-description');
 
-  modalTitle.innerHTML = `Задание ${currentTaskNumber} из ${window.puzzleTasks.length}`;
+  modalTitle.innerHTML = `Задание ${currentTaskNumber} из ${window.puzzleTasks.length - 1}`;
   modalDescription.innerHTML = window.puzzleTasks[currentTaskNumber].description;
 
   modalNext.disabled = true;
   modalInput.value = '';
+
+
+  if (currentTaskNumber === window.puzzleTasks.length - 1) {
+    modalInput.style.display = 'none';
+    modalNext.style.display = 'none';
+  }
 }
 
 async function getCurrentStep() {
