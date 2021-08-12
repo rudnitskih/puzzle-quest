@@ -14,6 +14,7 @@ setZoomListeners();
     document.body.classList.add('test');
   } else {
     document.body.classList.add('prod');
+    window.currentTask = 100;
     await Promise.all([loadPuzzleData(), getCurrentStep()]);
 
     updateVisiblePieces();
@@ -50,6 +51,8 @@ function setZoomListeners() {
 
 
 function loadPuzzleData() {
+  return Promise.resolve(null); // test
+
   const publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1u4ycZNkGmTczthSVnijAOzAuZ53-K8Wk76hswaSlViI/edit?usp=sharing';
 
   return new Promise((resolve) => {
